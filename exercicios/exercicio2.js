@@ -17,7 +17,7 @@ function validarNomeTag(nomeOriginal) {
   }
   
  
-  validarNomeTag("  bolOtA ");
+  validarNomeTag("  bolOtA silva");
   validarNomeTag("LaDy");
   
   
