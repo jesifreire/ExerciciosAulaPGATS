@@ -1,0 +1,21 @@
+{
+  "name": "pgats-programacao",
+  "version": "1.0.0",
+  "description": "Repositório para adicionar os exercícios das aula de Programação para Automação",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesifreire/ExerciciosAulaPGATS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesifreire/ExerciciosAulaPGATS/issues"
+  },
+  "homepage": "https://github.com/jesifreire/ExerciciosAulaPGATS#readme"
+}
