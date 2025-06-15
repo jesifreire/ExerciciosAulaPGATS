@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jesifreire/ExerciciosAulaPGATS/issues"
   },
-  "homepage": "https://github.com/jesifreire/ExerciciosAulaPGATS#readme"
+  "homepage": "https://github.com/jesifreire/ExerciciosAulaPGATS#readme",
+  "devDependencies": {
+    "mocha": "^11.2.2"
+  }
 }
